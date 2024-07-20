@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "db": "^6.0.3",
+    "express": "^4.19.2",
+    "maria": "^0.0.1-a",
+    "mariadb": "^3.3.1",
+    "mysql": "^2.18.1",
+    "node": "^22.5.0",
+    "npm": "^10.8.2"
+  },
+  "name": "ds6",
+  "version": "1.0.0",
+  "main": "api.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
